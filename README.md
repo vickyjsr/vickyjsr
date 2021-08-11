@@ -2,7 +2,6 @@
 - 👀 I’m interested in Development.
 - 🌱 I’m currently learning and looking for Internships.
 - 💞️ I’m looking to collaborate on some cool projects with cool peoples.
-- 📫 How to reach me gouravmodi10@gmail.com
 
 <!---
 vickyjsr/vickyjsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
