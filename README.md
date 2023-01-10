@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gourav Modi
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning and looking for Internships.
 - 💞️ I’m looking to collaborate on some cool projects with cool peoples.
 
 <!---
