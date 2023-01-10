@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gourav Modi
-- 👀 I’m interested in Development.
+- 👀 I’m interested in Android Development.
 - 💞️ I’m looking to collaborate on some cool projects with cool peoples.
 
 <!---
